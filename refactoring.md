@@ -2,7 +2,7 @@
 # Code Refactoring
 
 
-<img src="https://s3-us-west-2.amazonaws.com/techdojo-web/blog/refactor.png" alt="Keep Claim and Refactor the Code" style="width:100%;margin-left:auto;margin-right:auto;" />
+<img src="https://proheng.github.io/images/refactor.png" alt="Keep Claim and Refactor the Code" style="width:100%;margin-left:auto;margin-right:auto;" />
 
 __The following paragraphs record my thoughts based on my working experience. I hope it could also help to improve your team's code.__
 
