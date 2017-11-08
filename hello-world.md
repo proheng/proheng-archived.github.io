@@ -2,21 +2,23 @@
 
 
 
-
 So I write my first "hello world" in plain text. 
 
 The website is built using Angular 2 and hosted on Azure App Service. 
 
-All content is in source code in VSTS Git repo. 
+The architect is very slim. There is no database and back-end code.  The entire website has only one single HTML page.
 
-I publish and update the website by auto CI and CD. 
+All content is written in markdown format. It is hosted on Github in markdown format. Please feel free to check it out at <a href="" target="_blank">proheng.github.io</a>. 
 
-Anyway, "Hello World!". 
+The source code is in VSTS Git repo. Continue integration and continue deployment is automatically triggered by my git ```push command```.
+
+I set up this blog is to share my idea with the IT community in Canberra. I hope my ideas could help to improve Australian IT industry.
 
 To find out more about me, please check out [my LinkedIn](https://www.linkedin.com/in/rex-he/). 
 
-__More blogs will come soon.__
+Anyway, "Hello World!". 
 
+__More blogs will come soon.__
 
 ---
 <span class="fa fa-clock-o"></span>
