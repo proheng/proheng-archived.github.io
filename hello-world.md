@@ -6,7 +6,7 @@ So I write my first "hello world" in plain text.
 
 The website is built using Angular 2 and hosted on Azure App Service. 
 
-The architect is very slim. There is no database and back-end code.  The entire website has only one single HTML page.
+The architect is very slim. There is no database and back-end code.  This website has only one single HTML page.
 
 All content is written in markdown format. It is hosted on Github in markdown format. Please feel free to check it out at <a href="https://github.com/proheng/proheng.github.io" target="_blank">https://github.com/proheng/proheng.github.io</a>. 
 
