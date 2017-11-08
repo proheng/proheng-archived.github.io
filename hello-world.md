@@ -10,7 +10,7 @@ The architect is very slim. There is no database and back-end code.  The entire 
 
 All content is written in markdown format. It is hosted on Github in markdown format. Please feel free to check it out at <a href="" target="_blank">proheng.github.io</a>. 
 
-The source code is in VSTS Git repo. Continue integration and continue deployment is automatically triggered by my git ```push command```.
+The source code is in VSTS Git repo. Continue integration and continue deployment are automatically triggered by my ```git push``` command.
 
 I set up this blog is to share my idea with the IT community in Canberra. I hope my ideas could help to improve Australian IT industry.
 
