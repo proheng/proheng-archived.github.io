@@ -8,7 +8,7 @@ The website is built using Angular 2 and hosted on Azure App Service.
 
 The architect is very slim. There is no database and back-end code.  The entire website has only one single HTML page.
 
-All content is written in markdown format. It is hosted on Github in markdown format. Please feel free to check it out at <a href="" target="_blank">proheng.github.io</a>. 
+All content is written in markdown format. It is hosted on Github in markdown format. Please feel free to check it out at <a href="" target="_blank">https://github.com/proheng/proheng.github.io</a>. 
 
 The source code is in VSTS Git repo. Continue integration and continue deployment are automatically triggered by my ```git push``` command.
 
