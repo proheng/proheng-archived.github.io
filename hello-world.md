@@ -20,7 +20,3 @@ Anyway, "Hello World!".
 
 __More blogs will come soon.__
 
----
-<span class="fa fa-clock-o"></span>
-    Last updated on 03 Nov 2017
-
