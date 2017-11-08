@@ -2,13 +2,13 @@
   {
     "title": "Hello World",
     "intro": "This is my first blog. There are too many things I want to archive. but let's do it iteratively.",
-    "mdPath": "https://raw.githubusercontent.com/proheng/proheng.github.io/master/hello-world.md",
+    "mdPath": "https://proheng.github.io/hello-world.md",
     "latestUpdatedAt": "2017-11-8"
   },
   {
     "title": "Code Refactoring",
     "intro": "Just a quick thought about code refactoring and a bit more",
-    "mdPath": "https://raw.githubusercontent.com/proheng/proheng.github.io/master/refactoring.md",
+    "mdPath": "https://proheng.github.io/refactoring.md",
     "latestUpdatedAt": "2017-11-8"
   }
 ]
