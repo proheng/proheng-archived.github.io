@@ -1,9 +1,9 @@
 [
   {
-    "title": "Hello World",
+    "title": "Why Another Blog",
     "intro": "This is my first blog. I have too many ideas. but let's do it iteratively.",
     "mdPath": "hello-world.md",
-    "latestUpdatedAt": "2017-11-8"
+    "latestUpdatedAt": "2017-11-14"
   },
   {
     "title": "Code Refactoring",
