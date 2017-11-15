@@ -10,5 +10,11 @@
     "intro": "Just a quick thought about code refactoring and a bit more",
     "mdPath": "refactoring.md",
     "latestUpdatedAt": "2017-11-8"
+  },
+  {
+    "title": "SCRUM Guide Updated",
+    "intro": "Just my personal view to SCRUM and Agile",
+    "mdPath": "Agile.md",
+    "latestUpdatedAt": "2017-11-15"
   }
 ]
