@@ -57,7 +57,7 @@ We may not need to hold a retrospective meeting regular if the team doesn't do S
 ## Some references
 - https://www.101ways.com/blog/ 
 - SCRUM guide [http://scrumguides.org/]
-- PluralSight - SCRUM Fundamental [https://www.pluralsight.com/courses/scrum-fundamentals]
+
 - TED Radio Hour - Getting Organised [https://www.npr.org/programs/ted-radio-hour/401734785/getting-organized?showDate=2017-10-06]
 - (Learn Better)[https://www.amazon.com/Learn-Better-Mastering-Business-Anything/dp/1623365260/ref=as_li_ss_tl?_encoding=UTF8&qid=1494866377&sr=8-1&linkCode=sl1&tag=natmhou-20&linkId=1b25c293a71c339814a16f843aca3d95]
 - Pluralsight - SCRUM Fundamental https://www.pluralsight.com/courses/scrum-fundamentals
