@@ -1,4 +1,4 @@
-The creators of Scrum, Jeff Sutherland and Ken Schwaber, has just updated the notable SCRUM Guide after many years. 
+The authors of Scrum, Jeff Sutherland and Ken Schwaber, has just updated the notable SCRUM Guide after many years. 
 
 ## What is new
 
@@ -13,19 +13,19 @@ I found others' comments are valuable. It is worth checking them out.
 
 ### SCRUM Guide is just a list of statements and definitions
 
-SCRUM Guide only defines the framework, not methodology about do and don’t.  So It leaves each team with great flexibilities about implementing their own daily rituals and practices. Of course, all the flexibilities should still demonstrate the ideas stated in the guide. 
+SCRUM Guide only defines the framework, not methodology about do and don’t.  So It leaves each team with great flexibilities to implement their own daily rituals and practices. Of course, all the flexibilities should be compliant with the guide. 
 
 ## Are we agile or Agile? 
 
 ### What is Agile and agile
-The word, __"Agile"__, should have a trademark attached to it in my option. A team claiming themselves as "a true Agile team", should  strictly adhere 4 well-known <a href="http://agilemanifesto.org/" target="_blank">Agile Manifestos</a>.  
+The word, __"Agile"__, should have a trademark attached to it in my opinion. A team claiming themselves as "a true Agile team", should  strictly adhere to the 4 well-known <a href="http://agilemanifesto.org/" target="_blank">Agile Manifestos</a> .  
 
-However, when you speak "Agile", people normally hear it as "agile".  I am not surprised that they would feel agile is just cow-boy style, random, no structure, informal, casual, no document,  no rule and even chaotic. Why this?  Many teams as snapshots of the human society are stuck.
+However, when I speak "Agile" to people, they normally hear it as "agile".  I am not surprised that they would feel agile is just a cowboy style, random, no structure, informal, casual, no document,  no rule and even chaotic. Why is it?  It is because we have been very comfortable with waterfall model.
 
 ### Waterfall has a good tradition
 
 For centuries, we were taught with a simple principle of cause-and-effect. We firmly believe in it. The mind-projection has been so strong to shape the entire society since the Industrial Revolution. 
-Manufacturing, mechanical engineering, civil engineering established the linear waterfall process and applied it since then. No one would question them nowadays. In fact, the waterfall process is well structural, productive and predictable in these industries. It almost becomes the default and safe choice for processing in other areas, such public service, legislation, health, research institute, sport and so on. (side note, Ant society seems to organise very differently from human society who has more than 1 kg brain... check this out, https://www.npr.org/programs/ted-radio-hour/401734785/getting-organized?showDate=2017-10-06) 
+Manufacturing, mechanical engineering and civil engineering established the linear waterfall process and applied it since then. No one would question them nowadays. In fact, the waterfall process is well structural, productive and predictable in these industries. It almost becomes the default and safe choice for processing in other areas, such public service, legislation, health, research institute, sport and so on. (side note, Ant society seems to organise very differently from human society who has more than 1 kg brain... check this out, https://www.npr.org/programs/ted-radio-hour/401734785/getting-organized?showDate=2017-10-06) 
 
 Back in software engineering, the software product is shapeless and invisible but highly scalable. It can be easily changed and updated the fit the business. The waterfall process our human-being follow simply not fast enough to keep track of the constantly changing business requirement and latest technologies.  
 
@@ -35,7 +35,7 @@ Indeed, adapting true Agile is an organisational change. Without a good strategy
 
 ### We are stuck because we fail to change. 
 
-Recently, Agile gains enough public attention under strong marketing and a few exciting news. Many other IT teams want to give it a try. However, due to the many reasons, they fail very badly. Everyone gets a very bad experience from being "agile". It then creates a cognitive behaviour virtuous circle. The team switch back to waterfall over one night and stick with it, no one is allowed to mention "agile" anymore. Everyone sees it as bad as they can imagine. 
+Recently, Agile gains enough public attention under strong marketing and a few exciting news. Many other IT teams want to give it a try. However, due to the many reasons, they fail very badly. Everyone gets a very bad experience from being "agile". It then creates a cognitive behaviour virtuous circle. The team switch back to waterfall over one night and stick with it; no one is allowed to mention "agile" anymore. Everyone sees it as bad as they can imagine. 
 
 
 ## Empiricism 
@@ -57,8 +57,6 @@ We may not need to hold a retrospective meeting regular if the team doesn't do S
 ## Some references
 - https://www.101ways.com/blog/ 
 - SCRUM guide [http://scrumguides.org/]
-
+- PluralSight - SCRUM Fundamental [https://www.pluralsight.com/courses/scrum-fundamentals]
 - TED Radio Hour - Getting Organised [https://www.npr.org/programs/ted-radio-hour/401734785/getting-organized?showDate=2017-10-06]
 - (Learn Better)[https://www.amazon.com/Learn-Better-Mastering-Business-Anything/dp/1623365260/ref=as_li_ss_tl?_encoding=UTF8&qid=1494866377&sr=8-1&linkCode=sl1&tag=natmhou-20&linkId=1b25c293a71c339814a16f843aca3d95]
-- Pluralsight - SCRUM Fundamental https://www.pluralsight.com/courses/scrum-fundamentals
-- Our Iceberg is melting - book summary https://www.brainpowertraining.com.au/our-iceberg-is-melting/
