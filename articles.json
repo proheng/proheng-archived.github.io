@@ -24,7 +24,7 @@
   {
     "title": "问什么写中文博客",
     "intro": "好久没有和中文的朋友联系，所以写博客",
-    "mdPath": "https://proheng.github.io/cn/hello-world.md",
+    "mdPath": "https://raw.githubusercontent.com/proheng/proheng.github.io/cn/cn/hello-world.md",
     "latestUpdatedAt": "2017-11-17",
     "language": 1
   }
