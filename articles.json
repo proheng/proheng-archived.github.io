@@ -3,18 +3,29 @@
     "title": "Why Another Blog",
     "intro": "This is my first blog. I have too many ideas. but let's do it iteratively.",
     "mdPath": "hello-world.md",
-    "latestUpdatedAt": "2017-11-14"
+    "latestUpdatedAt": "2017-11-14",
+    "language": "En"
   },
   {
     "title": "Code Refactoring",
     "intro": "Just a quick thought about code refactoring and a bit more",
     "mdPath": "refactoring.md",
-    "latestUpdatedAt": "2017-11-8"
+    "latestUpdatedAt": "2017-11-8",
+    "language": "En"
+
   },
   {
     "title": "SCRUM Guide Updated",
     "intro": "Just my personal view to SCRUM and Agile",
     "mdPath": "Agile.md",
-    "latestUpdatedAt": "2017-11-15"
+    "latestUpdatedAt": "2017-11-15",
+    "language": "En"
+  },
+  {
+    "title": "问什么写中文博客",
+    "intro": "好久没有和中文的朋友联系，所以写博客",
+    "mdPath": "cn/hello-world.md",
+    "latestUpdatedAt": "2017-11-17",
+    "language": "Cn"
   }
 ]
