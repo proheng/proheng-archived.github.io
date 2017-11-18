@@ -16,7 +16,10 @@
 
 谢谢关注。
 
-<img src="https://dvjzjw.bn1304.livefilestore.com/y4mbD-SzGLJgzNLMFPa0TkHlwUH9a1WCvY_oLAwS7YruJ4sm9X4ZiPvk6pXo5ZysL0BOe93ImH32vAypE6iuHC4jv7JWHr7Eqo4Le3qKAPbOsWT1xhjygT_7WEnpKSVHlsv6EVTvyKZb1xZxE3qDgKzB_x0k6vtRww6NszyRRBOYBoVvTcypS5i6uu-ST89iLx5wAssw2z6v-b-C7FpCA_g8g?width=660&height=495&cropmode=none" width="50%" />
+<center>
+<img src="https://qojwsw.bn1304.livefilestore.com/y4mJdXNj66hL9qQQ2IebkaefPmWW8PAI7zT60mfx666ipTqZLsUWLsCHoxpiKbKyQ3MhsZJexiTTQaKgDKLgOeK30O3qpH9TKyWqg5jfwW71K0Y68n3vkSDCcFA_byNHCeVLViwBgdc9DjLwVWquMrdrbPIIOmwA9kwxvx0AVbBwXHpUqrFM4Jrl7s0taeD9YrAGAL1gu-iTCBcQ9nsKTfsZQ?width=1024&height=768&cropmode=none" width="100%"  />
+		
+</center>
 
 ---
 
