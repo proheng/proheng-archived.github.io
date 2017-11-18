@@ -2,7 +2,7 @@
 
 There is no shortage of articles explaining “technical debt” in software engineering.
 
-<a href="https://refactoring.guru/refactoring/technical-debt" target="_blank">Here is a very good article. </a>. I highly encourage everyone to read it. 
+<a href="https://refactoring.guru/refactoring/technical-debt" target="_blank">Here is a very good article. </a> I highly encourage everyone to read it. 
 
 Note that this article compares "technical debt" to the money we borrow from the bank. More money we borrow, greater our purchasing power is. Of course, we need to pay back eventually, the principle and the interest.
 
