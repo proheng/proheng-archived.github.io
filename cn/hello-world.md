@@ -1,5 +1,7 @@
 # 中文
 
+<img src="https://alhtsw.bn1304.livefilestore.com/y4mviuyUJaterAMQHh9g25fDW-L06T4-jIrAZW33nY-qmC5rydESKjWO0P3dFVHHTtYMyaNLNp1LvGhSCUxO-JdHJTRR1dQkINcW2gzmyBCKgws_ZirQL6mAXoUGOoTBJzXnbu-OvyfwSLAUi9blC2qRkT3K0DCZj-rpkIIxTgFmHGIgg0750eSK1Qb3CGi43BPLC6Dfc92Y9a_AykhyP_ldQ?width=1024&height=266&cropmode=none" width="100%"  />
+
 好久没有写中文文章，所以，自己做一个网站来写写。你知道这个网址，或许是因为，我告诉了你，或者我朋友的朋友告诉你。
 
 无论如何，__欢迎您__。
