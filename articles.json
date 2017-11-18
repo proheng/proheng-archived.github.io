@@ -25,6 +25,14 @@
     "language": 0
   },
   {
+    "title": "Technical debt",
+    "intro": "Find a good article about \"Technical debt\"",
+    "perlink":"technical-debt",
+    "url": "https://proheng.github.io/technical-debt.md",
+    "latestUpdatedAt": "2017-11-17",
+    "language": 1
+  },
+  {
     "title": "为什么写中文博客",
     "intro": "好久没有和中文的朋友联系，所以写博客，不然，忘记了中文怎么写了。",
     "perlink":"cn-hello-world",
