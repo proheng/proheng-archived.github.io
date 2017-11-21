@@ -15,6 +15,17 @@ I found others' comments are valuable. It is worth checking them out.
 
 SCRUM Guide only defines the framework, not methodology about do and don’t.  So It leaves each team with great flexibilities to implement their own daily practices. Of course, all the flexibilities should be compliant with the guide. 
 
+## Empiricism 
+
+In my view, proper Agile (such as SCRUM) emphases empiricism, encourage the team to self-drive to explore a roughly known territory, discover the best practice and structure, then deliver the best business outcome possible. That is the reason "Inspection" and "Adaptation" are two pillars of SCRUM Theory. These two ensure the team can continuously improve and evolve for the constantly changing business requirement.  Admittedly, this requires a huge amount of trusts within the organisation.  So, the SCRUM theory also set "Transparency" as the third but equally important pillar. 
+
+## Share Responsibility, then knowledge
+
+Because we are deep down in the waterfall process, we get used to the mindset of invididual responsibility to our own work and scope. Everyone takes care and __ONLY__ care the well-defined scoped area in a waterfall. It actually created a knowledge barrier within the team.
+
+We try to compensate this with excessive long document. But will we read it? and will we maintain it up to date as the business and technonogy evolving every day? We may end up paying a lot of hours to maintain the docment than the software product. Even Microsoft and Amazon Web Service cannot keep their document up to date. 
+
+
 ## Are we agile or Agile? 
 
 ### What is Agile and agile
@@ -38,11 +49,7 @@ Indeed, adapting true Agile is an organisational change. Without a good strategy
 
 ### We may in the middle, then become non-Agile and non-waterfall.
 
-Recently, Agile gains enough public attention under strong marketing and push from digital transformation. Many IT teams give their best effort to go Agile. However, they may experience many challenges over their capabilities. The progress of Agile adaptation gets slow down at some point in the journey. In terms of project management style, they are in the middle of the waterfall and Agile. The team members become miserable about "agile" simply because they cannot reach their distant dream destination and proudly claim themselves as "pure Agile".  Sometime, such experience may alter the team members' attitude toward Agile. It then creates a cognitive behaviour virtuous circle. 
-
-## Empiricism 
-
-In my view, proper Agile (such as SCRUM) emphases empiricism, encourage the team to self-drive to explore a roughly known territory, discover the best practice and structure, then deliver the best business outcome possible. That is the reason "Inspection" and "Adaptation" are two pillars of SCRUM Theory. These two ensure the team can continuously improve and evolve for the constantly changing business requirement.  Admittedly, this requires a huge amount of trusts within the organisation.  So, the SCRUM theory also set "Transparency" as the third but equally important pillar. 
+Recently, Agile gains much public attention under strong marketing and push from digital transformation. Many IT teams give their best effort to go Agile. However, they may experience many challenges over their capabilities. The progress of Agile adaptation gets slow down at some point in the journey. They may stay in the middle of the waterfall and Agile. The team members feel satisfied with "agile" simply because they cannot reach their distant expected destination and proudly claim themselves as "pure Agile". Such experience may alter the team members' attitude toward Agile. It then creates a cognitive behaviour virtuous circle.
 
 
 ## At least we can do something
