@@ -49,8 +49,9 @@ Indeed, adapting true Agile is an organisational change. Without a good strategy
 
 ### We may in the middle, then become non-Agile and non-waterfall.
 
-Recently, Agile gains much public attention under strong marketing and push from digital transformation. Many IT teams give their best effort to go Agile. However, they may experience many challenges over their capabilities. The progress of Agile adaptation gets slow down at some point in the journey. They may stay in the middle of the waterfall and Agile. The team members feel satisfied with "agile" simply because they cannot reach their distant expected destination and proudly claim themselves as "pure Agile". Such experience may alter the team members' attitude toward Agile. It then creates a cognitive behaviour virtuous circle.
+Recently, Agile gains much public attention under strong marketing and push from digital transformation. Many IT teams give their best effort to go Agile. However, they may experience many challenges over their capabilities. The progress of Agile adaptation gets slow down at some point in the journey. They may stay in the middle between the waterfall and Agile. 
 
+After many random tries, the team members would gradually settle in their own way of "agile" and also accept what they archive. 
 
 ## At least we can do something
 No matter whether we decide to take the adventure to the true Agile, The things I believe could benefit every team.
@@ -59,6 +60,7 @@ No matter whether we decide to take the adventure to the true Agile, The things 
 The human brain can only focus within a short period. After that, it gets fatigued, then starts daydreaming.  Short-term memory is also too scarce to hold no more than a 7-digit phone number at one time. So, to maximise the brain power in each meeting, try to time-box it and break a long meeting into a series of time-boxed sections. It would be even better to spread out the sections on different days if possible. 
 
 ### Retrospective
+
 We may not need to hold a retrospective meeting regular if the team doesn't do SCRUM. However, the team should have a common and well-maintained place to throw their ideas, likes and dislikes. Then, they may chat about them in formal or informal settings.
 
 
