@@ -6,7 +6,7 @@
 
 __The following paragraphs record my thoughts based on my working experience. I hope it could also help to improve your team's code.__
 
-__Code inspection and refactoring are just like servicing your car and keeping it in a health and safe state. The business may not see them as important as creating new features and fixing bugs. However, proactively inspecting and refactoring the code could gradually increase the team's velocity and reduce the chance of defeats. It is just like the well-serviced cars can run double even triple mileage to those without service and have less chance to break down on the highway.__
+Code inspection and refactoring are just like servicing your car and keeping it in a healthy and safe state. The business may not see them as important as creating new features and fixing bugs. However, proactively inspecting and refactoring the code could gradually increase the team's velocity and reduce the chance of defeats. It is just like the well-serviced cars can run double even triple mileage to those without service and have less chance to break down on the highway.
 
 ## What are the benefits?
 
