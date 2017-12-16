@@ -40,7 +40,7 @@
 每年的一月份都是我和太太的周年纪念。周年纪念比任何其他节日都要重要和值得庆祝。 
 一转眼已经是7年了。 我觉得这7年，我自己改变了很多，思想也得到了更新。希望家庭和夫妻间能继续和睦和团结。
 
-<img src="https://2qzm4q.bn1304.livefilestore.com/y4m5o42mFrBbk11Sy_AfnPXp6fVsluk2BNdrpxtEoOK2FVUkL4NMvDyMyotF_Aqrypyki2W7bzFWASSOjwFWucsY86j6iruTOdMhjIZHngSDfAybh9HWO6bXlXfG2N4Pa1qW5sykOWw_diaY76QdSePjVWuoNDUDpPEkmCeGdrLEWG4L1AJzmofRSzznqvqNAvKZxHkJB31xFVnaXkMrYen1w?width=684&height=1024&cropmode=none" width="684" />
+<img src="https://2qzm4q.bn1304.livefilestore.com/y4m5o42mFrBbk11Sy_AfnPXp6fVsluk2BNdrpxtEoOK2FVUkL4NMvDyMyotF_Aqrypyki2W7bzFWASSOjwFWucsY86j6iruTOdMhjIZHngSDfAybh9HWO6bXlXfG2N4Pa1qW5sykOWw_diaY76QdSePjVWuoNDUDpPEkmCeGdrLEWG4L1AJzmofRSzznqvqNAvKZxHkJB31xFVnaXkMrYen1w?width=684&height=1024&cropmode=none" width="100%" />
 
 >这个照得比较草率，在家里。还有事夏天…… 我们都说，有了娃没了形象了
 
