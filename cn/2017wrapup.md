@@ -60,7 +60,7 @@
 
 新西兰的风景确实不错。很多人都说想再去，我说，肯定有机会。
 
-<img src="https://5px7vg.bn1304.livefilestore.com/y4mLxwLB70WEBV2iUhDHwrdoh8mZNdXpcm_ydDg2tc26JdoJhC-NUTo0-hbX30Add8WSGb8FlfuFaQuWQEVFMFYFDQ5LkRjWr-0Q1CveqaK_F80a3aHUT9s4nALKiN_D9HhEYqmrOP_xAUj-FdrFaDS7jJHpi9h5PcsrzC5H4Bxai1LXoSW8KOvGtylgiBpV5O05TDqHsnF6pSQLmfFzp-Twg?width=495&height=660&cropmode=none" width="495"  />
+<img src="https://5px7vg.bn1304.livefilestore.com/y4mLxwLB70WEBV2iUhDHwrdoh8mZNdXpcm_ydDg2tc26JdoJhC-NUTo0-hbX30Add8WSGb8FlfuFaQuWQEVFMFYFDQ5LkRjWr-0Q1CveqaK_F80a3aHUT9s4nALKiN_D9HhEYqmrOP_xAUj-FdrFaDS7jJHpi9h5PcsrzC5H4Bxai1LXoSW8KOvGtylgiBpV5O05TDqHsnF6pSQLmfFzp-Twg?width=495&height=660&cropmode=none" width="100%"  />
 
 >航拍也可以看到，夏天的冰川
 
