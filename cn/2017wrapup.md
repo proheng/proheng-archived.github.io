@@ -35,6 +35,8 @@
 
 >2016年的年度合照
 
+---------------------------------------------------------
+
 ### 1月
 
 每年的一月份都是我和太太的周年纪念。周年纪念比任何其他节日都要重要和值得庆祝。 
@@ -47,6 +49,8 @@
 <img src="https://3vzo4q.bn1304.livefilestore.com/y4m2yv3DQBl5rnzCM2nTEZc_n4osQ_Tvn7bFNreAjWCvSF1VMb6j32iLTcN5zddVfGVRfLKUysqGKuYQBeJZa3Werleb4U0VLRbOj9pyX6Q4bsCgiZdvGrKDufYuOo-zcyaqEFKUrcnXOq8mHzDYHakFSQZBpHKzf2AWYe81zgyqE5ulpiAULyNQX1LTopfJM0Wc8X7Q2r1veW0HryaLFXKKQ?width=1024&height=768&cropmode=none" width="100%"  />
 
 >孩子也把玩具娃娃都晒出来了。
+
+---------------------------------------------------------
 
 ### 2月
 
@@ -94,6 +98,10 @@
 
 >大合照一张，大家好像没有看同一部相机……
 
+
+---------------------------------------------------------
+
+
 ### 3月
 
 旅游回来，收拾心情继续上班。
@@ -107,6 +115,9 @@
 <img src="https://roht4q.bn1304.livefilestore.com/y4mXSVnlELJni8u3Z9NwPObLnzMT07uZJ7Pq4b_CyROsGcWheMy3Uffljwx6_Nxi85HUdPKof_BLJiS4j8Vbkda9DMhvFcPbbdY90T0PhYWL2Co_GcAqY6GCK1QmEAPcIBLrXXpOni9zx3oRpD_1TMOGnHpVi-8Cn1F5zDf1VvqvnlDUkhEiHzcT--YXlWIF7yNRq9ToHSaq-2mDitkqthr5Q?width=1024&height=462&cropmode=none" width="100%"  />
 
 >为什么我这么喜欢我现在住的地方，因为走路10分钟就到这个湖边。真的不想搬家，虽然家真的觉得有点小。
+
+
+---------------------------------------------------------
 
 ### 4月
 
@@ -138,6 +149,8 @@
 
 <img src="https://dfjeza.bn1304.livefilestore.com/y4mWsT3LaJZwwbU0ct-nRguMlezJhFS8XfW__w8hbG6fgih3YGXs_9TPBngmdksSuvR7jXcAl-9Kv65UF2ZqzpbaTKbhdlgSDsrHW1RJistALHOLH4Bx08kuDdQMb9VsRUO9VZ7Ky7sVG0VeJ8iT6uH1sOzBPjJVykVx5ru6hYm3ABbt4Mf90aFrwNvVcqC2oi6IjWfJ_ZQOsPS672f-yv7dQ?width=768&height=1024&cropmode=none" width="100%" />
 
+---------------------------------------------------------
+
 ### 5月
 
 
@@ -162,6 +175,7 @@
 
 >这是我很好的一个朋友，以前在堪培拉，现在搬到了悉尼。
 
+---------------------------------------------------------
 
 ### 6月
 
@@ -196,6 +210,8 @@
 
 没想到，每次换工作都是8月…… 2012， 2015， 2017 年的8月。
 
+---------------------------------------------------------
+
 ### 9月
 没想到合同工有这么多变化。也很感谢同事，身边的朋友的帮助，我学到了很多事情。
 
@@ -208,6 +224,7 @@
 <img src="https://qmxheg.bn1304.livefilestore.com/y4mPFhmQvR445joQ6pdSxE9jziBLnMNtsDnYt7Dc71oDWP1-heERTyRLTCUJ82ju5LtPcoz8konuWwJEgxoiOv8ewLGYxFlNg-MwA6-g3X91UXUfkabqX74EEJ5lOGkeVO8urUNvrX0FrGFqLEVlDGdDXKNDKjEaJr76BqcD19g4TxzXHv0N_Z4o1F5rx-jK3_34KqNVWG4Ne6yMrnU0Llrpw?width=768&height=1024&cropmode=none" width="100%"  />
 > 终于离职了。把电脑，工作卡等等都交上去。匆匆结束了我两年的工作。
 
+---------------------------------------------------------
 
 ### 11月
 新工作入职两个月，就陆陆续续有合同工离职，听说，有一些合同工是给劝退。项目马上进度慢下来。
@@ -217,6 +234,9 @@
 
 <img src="https://nywqtw.bn1304.livefilestore.com/y4mPjlG-w60t9IiM-E76DoS1U--do0iUYF1DdwnYu-Argv1Nt-niG1xR5lNogZscRbcgfRt3BUaZmoXGKltkA9gz_tqnm6_cCPk4uTh0rZ7B630aq03-oSYZ8fIVyZ3jd1aCKWbkG7goOarMZxgPPrNXupo8cfmTEka1MQ_LD7X9HGRSWyGCyBJ4gGL0al7zfcsra-6-Hy-Y0mbBeYttFqxQw?width=768&height=1024&cropmode=none" width="100%"  />
 > 某一天晚上，聚会后，儿子在其他小朋友的帮助下，爬树去了。
+
+
+---------------------------------------------------------
 
 ### 12月
 
