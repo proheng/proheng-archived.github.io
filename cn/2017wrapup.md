@@ -23,7 +23,7 @@
 
 
 
-<img src="https://pprcpw.bn1304.livefilestore.com/y4mN4aB2fyGnu6-QVogvS8IKYqbum6PahB0AzHJ-513yV_EE5fnVb28oQN7na-IvehkwmOFcf2Agnayk07MasXCmsKbTAZpcvmrq5GSgSW1AMGjhQDGkdecZkcA8r6nWjkmrz4tg2AVmRlfKMHCT5DfnVkXdkxOMI-zHPGwvNMrpgthgO9GoMlIv2J1z7z6L5YKS0wYCxVqInA4h8hF_e9jUw?width=768&height=1024&cropmode=none" width="768"  />
+<img src="https://pprcpw.bn1304.livefilestore.com/y4mN4aB2fyGnu6-QVogvS8IKYqbum6PahB0AzHJ-513yV_EE5fnVb28oQN7na-IvehkwmOFcf2Agnayk07MasXCmsKbTAZpcvmrq5GSgSW1AMGjhQDGkdecZkcA8r6nWjkmrz4tg2AVmRlfKMHCT5DfnVkXdkxOMI-zHPGwvNMrpgthgO9GoMlIv2J1z7z6L5YKS0wYCxVqInA4h8hF_e9jUw?width=768&height=1024&cropmode=none" width="100%"  />
 
 >墨尔本的饮茶是很好吃的。
 
@@ -60,7 +60,7 @@
 
 >航拍也可以看到，夏天的冰川
 
-<img src="https://5fx6vg.bn1304.livefilestore.com/y4mC7yGrYhZrj8YRNqWazj1968HJFl5OhcvUWteKFR5r7je7dohFBju3vCJS8LvbxLOOUQ7ksxjCeJzeT-PKYoyQGgIn0rJu3jMK3z0IfowF4lk1tvgEfQV0UG5mCwlNqzEKROYLCf_LswQ-0wOIPvoLxu_wTHqTK_JJa7NdekB4FQRetahJosCzxjfBfw_32qf4LOs5-JxRRgbF2CjJeQyhQ?width=768&height=1024&cropmode=none" width="768"  />
+<img src="https://5fx6vg.bn1304.livefilestore.com/y4mC7yGrYhZrj8YRNqWazj1968HJFl5OhcvUWteKFR5r7je7dohFBju3vCJS8LvbxLOOUQ7ksxjCeJzeT-PKYoyQGgIn0rJu3jMK3z0IfowF4lk1tvgEfQV0UG5mCwlNqzEKROYLCf_LswQ-0wOIPvoLxu_wTHqTK_JJa7NdekB4FQRetahJosCzxjfBfw_32qf4LOs5-JxRRgbF2CjJeQyhQ?width=768&height=1024&cropmode=none" width="100%"  />
 
 >孩子和中国来的哥哥一拍即合
 
@@ -86,7 +86,7 @@
 
 >皇后镇的湖，向上游开车的路上风景
 
-<img src="https://qihapw.bn1304.livefilestore.com/y4mnms1zCgS_oS8nE0lQy_YUbAHqX263t6bTIooRCV5MybOeVHTthtsO8ddIxBhjwwrViq6nyaGTEZ_P-x9SBeu7_GpkRHrba2ofqBJFdvzaNpQMHXSyF8s9XpdWpdLXjCkSX7XgPa02o86lmzK-Hd3dZCH_uFT6YVVGRsZXxMgIfkDROPQaAisjmMx28N5KnDwq2TN-_S0hBnXx_hNlV27tQ?width=768&height=1024&cropmode=none" width="768"  />
+<img src="https://qihapw.bn1304.livefilestore.com/y4mnms1zCgS_oS8nE0lQy_YUbAHqX263t6bTIooRCV5MybOeVHTthtsO8ddIxBhjwwrViq6nyaGTEZ_P-x9SBeu7_GpkRHrba2ofqBJFdvzaNpQMHXSyF8s9XpdWpdLXjCkSX7XgPa02o86lmzK-Hd3dZCH_uFT6YVVGRsZXxMgIfkDROPQaAisjmMx28N5KnDwq2TN-_S0hBnXx_hNlV27tQ?width=768&height=1024&cropmode=none" width="100%"  />
 
 >我个人很喜欢这张照片的构图，所以处理了一下颜色
 
@@ -100,7 +100,7 @@
 
 偶尔，真的是偶尔，要搞搞花园。真的乱七八糟。
 
-<img src="https://qygkvg.bn1304.livefilestore.com/y4mphhjO_uuVJZblUe9zkI8Livod7V0qZliFz14y7IMjpWgpEato1-_gl-SGLjkw24tNRK_X0Kn4ZaMMDpZSSPJCzqcti6NYwCBX8Oj0_K-S6-KwqXMNF05k3PXbkxta-fujbPnmx_sAJfL7Apf67ByJ_Y-cY65QLwN0GXx_cNqaLASfimVNzGRTeWqbDb7E6RP0k_1C7SoqiV3oDopp-W59A?width=768&height=1024&cropmode=none" width="768"  />
+<img src="https://qygkvg.bn1304.livefilestore.com/y4mphhjO_uuVJZblUe9zkI8Livod7V0qZliFz14y7IMjpWgpEato1-_gl-SGLjkw24tNRK_X0Kn4ZaMMDpZSSPJCzqcti6NYwCBX8Oj0_K-S6-KwqXMNF05k3PXbkxta-fujbPnmx_sAJfL7Apf67ByJ_Y-cY65QLwN0GXx_cNqaLASfimVNzGRTeWqbDb7E6RP0k_1C7SoqiV3oDopp-W59A?width=768&height=1024&cropmode=none" width="100%"  />
 
 >这个是我在家的样子。
 
@@ -112,7 +112,7 @@
 
 每个月，我都会尝试找一个地方，带家人去一去。这次找了个美国太空署设在堪培拉的通讯站。
 
-<img src="https://syiseq.bn1304.livefilestore.com/y4m2kzo9gN-nYn8Nz38fDR4TMlWCjFW_wPHWiqUavZUNb-iBMdvNWpyAUcexp6GE0yms9Gjk1a4ILQAsMMkmGsVKUdDm54SFmzJUEb4vQGmXi5gYSeRUBv8KA3lXF2vyCygUgqZLhjBVU9oD9IoFoQXuORXsASRJj9ZbaYPPx1yWItfETn2fVFR2MHy_8vK58B5YDmsOfCETw4K-n0C9S678g?width=768&height=1024&cropmode=none" width="768"  />
+<img src="https://syiseq.bn1304.livefilestore.com/y4m2kzo9gN-nYn8Nz38fDR4TMlWCjFW_wPHWiqUavZUNb-iBMdvNWpyAUcexp6GE0yms9Gjk1a4ILQAsMMkmGsVKUdDm54SFmzJUEb4vQGmXi5gYSeRUBv8KA3lXF2vyCygUgqZLhjBVU9oD9IoFoQXuORXsASRJj9ZbaYPPx1yWItfETn2fVFR2MHy_8vK58B5YDmsOfCETw4K-n0C9S678g?width=768&height=1024&cropmode=none" width="100%"  />
 
 
 <img src="https://riiteq.bn1304.livefilestore.com/y4mLmOz0OwaYMvlXindUM3EbgizrjzqA-P6CR-vVCT0XOORFGrp6e7nuIGpBpn3t454bEQ-P1FEmjYgZHOIwXJcx2fSV-NeGzt9koh2wRmQxaUx9ew4p8XXmLbM3JCmETVL-Vwbux6_7mv8EC3Ei6eXj3gZlcTPUYITKxg9Z-JNKAb_jEG8x0FVsbp6FUD-8Ho32kwamo7rQosJDhKek0a2Ig?width=1024&height=768&cropmode=none" width="100%"  />
@@ -136,7 +136,7 @@
 
 很多人都说，我家的装修很怪，因为都是乱来的。哈哈。我太太已经说了很久，说到习惯了。哈哈
 
-<img src="https://dfjeza.bn1304.livefilestore.com/y4mWsT3LaJZwwbU0ct-nRguMlezJhFS8XfW__w8hbG6fgih3YGXs_9TPBngmdksSuvR7jXcAl-9Kv65UF2ZqzpbaTKbhdlgSDsrHW1RJistALHOLH4Bx08kuDdQMb9VsRUO9VZ7Ky7sVG0VeJ8iT6uH1sOzBPjJVykVx5ru6hYm3ABbt4Mf90aFrwNvVcqC2oi6IjWfJ_ZQOsPS672f-yv7dQ?width=768&height=1024&cropmode=none" width="768" />
+<img src="https://dfjeza.bn1304.livefilestore.com/y4mWsT3LaJZwwbU0ct-nRguMlezJhFS8XfW__w8hbG6fgih3YGXs_9TPBngmdksSuvR7jXcAl-9Kv65UF2ZqzpbaTKbhdlgSDsrHW1RJistALHOLH4Bx08kuDdQMb9VsRUO9VZ7Ky7sVG0VeJ8iT6uH1sOzBPjJVykVx5ru6hYm3ABbt4Mf90aFrwNvVcqC2oi6IjWfJ_ZQOsPS672f-yv7dQ?width=768&height=1024&cropmode=none" width="100%" />
 
 ### 5月
 
@@ -149,7 +149,7 @@
 
 >我的一位奥地利朋友。孩子们都很喜欢和她一起。
 
-<img src="https://dfj4bg.bn1304.livefilestore.com/y4mhQYZIfRTCTlYfCfwL0306wRZPfjEB1o5mTpeLrmC0SkGOFe0OhpQPwxvcdlRGVfouhFdZrW0wHf26oF4XhFDJJS8RKabYVGjJxoEy-MkkhRzmBKKLnDJK3ADUHSheZXXNoNMh7AXy-Y878O-9iEXmwetzD0QH8hLStgqKkzAnud24bMxaNpvMsZbpKZuIEgVCGKdfLlFAg9TephBsupbMw?width=768&height=1024&cropmode=none" width="768"  />
+<img src="https://dfj4bg.bn1304.livefilestore.com/y4mhQYZIfRTCTlYfCfwL0306wRZPfjEB1o5mTpeLrmC0SkGOFe0OhpQPwxvcdlRGVfouhFdZrW0wHf26oF4XhFDJJS8RKabYVGjJxoEy-MkkhRzmBKKLnDJK3ADUHSheZXXNoNMh7AXy-Y878O-9iEXmwetzD0QH8hLStgqKkzAnud24bMxaNpvMsZbpKZuIEgVCGKdfLlFAg9TephBsupbMw?width=768&height=1024&cropmode=none" width="100%"  />
 
 
 
@@ -158,7 +158,7 @@
 每次心情低落的时候，都会得到鼓励，心情就好了。
 
 
-<img src="https://bfgctg.bn1304.livefilestore.com/y4mWvy1pyJEeZvk76sOvKHsnkB9Td8T--8cifwBjXZRilm3G8RHGaVSNQWdhz9lWX3SVceKnSzip5l239I1jJSlNEiVtMw4IgCPfbsCGJpQZTRdknyEZ5-WyTom3gKxbI5Q4f1uEMLo8UC3cRGs7Hm1B0cK8lqlAodAyruNYeX31MWOzu6HtKxCEp_NjTfAT-yJPh6YysUsPHPDmRvD9leFFA?width=768&height=1024&cropmode=none" width="768"  />
+<img src="https://bfgctg.bn1304.livefilestore.com/y4mWvy1pyJEeZvk76sOvKHsnkB9Td8T--8cifwBjXZRilm3G8RHGaVSNQWdhz9lWX3SVceKnSzip5l239I1jJSlNEiVtMw4IgCPfbsCGJpQZTRdknyEZ5-WyTom3gKxbI5Q4f1uEMLo8UC3cRGs7Hm1B0cK8lqlAodAyruNYeX31MWOzu6HtKxCEp_NjTfAT-yJPh6YysUsPHPDmRvD9leFFA?width=768&height=1024&cropmode=none" width="100%"  />
 
 >这是我很好的一个朋友，以前在堪培拉，现在搬到了悉尼。
 
@@ -178,7 +178,7 @@
 
 >带娃，要经常变着玩，我最喜欢堆积木
 
-<img src="https://zpoftq.bn1304.livefilestore.com/y4mqHTQo3qn6L8TWJh7CP6DF7uEm0flgG6_KKzkMkvE_JX4LjIm-32H2ZVKnwEF3AGwARM7k7APuI30jn2j0TvbhsPg4_WsEr8VbMRwtM1ORhY0AUVz2ayf3ycUXvHX1L9YyqZqgVLtwe1TiPzi5soqGNmM9sXspRA_QPjtpRdW2E2hYcgq1mFhNTixHUB7cejeCnc3ilWjXzhkR6mi4B1oeg?width=768&height=1024&cropmode=none" width="768" height="1024" />
+<img src="https://zpoftq.bn1304.livefilestore.com/y4mqHTQo3qn6L8TWJh7CP6DF7uEm0flgG6_KKzkMkvE_JX4LjIm-32H2ZVKnwEF3AGwARM7k7APuI30jn2j0TvbhsPg4_WsEr8VbMRwtM1ORhY0AUVz2ayf3ycUXvHX1L9YyqZqgVLtwe1TiPzi5soqGNmM9sXspRA_QPjtpRdW2E2hYcgq1mFhNTixHUB7cejeCnc3ilWjXzhkR6mi4B1oeg?width=768&height=1024&cropmode=none" width="100%" height="1024" />
 >娃也和喜欢音乐的
 
 ---------------------------------------------------------
@@ -199,13 +199,13 @@
 ### 9月
 没想到合同工有这么多变化。也很感谢同事，身边的朋友的帮助，我学到了很多事情。
 
-<img src="https://p8xoeg.bn1304.livefilestore.com/y4msMSUyRoXDlj63rpw9ARZ8FUe4ZxH0JPO7SyLFUDTHT_pvaE6Gr2q_VdDpgbh09uH-a_iOdtMC6wAO2IM9QHWRmWlCwEPJ3ZTwc3BzyceUjQueb2LCuRmxyQdTFh84R8OGwew2jPF2gpQDYcEn7AhrV3WCqVNURFG3JA9T4wC0WhdUuvQpX4iYyYgiRWz0mZVzzMl_Xwj1RTCFXor_bCMOg?width=768&height=1024&cropmode=none" width="768"  />
+<img src="https://p8xoeg.bn1304.livefilestore.com/y4msMSUyRoXDlj63rpw9ARZ8FUe4ZxH0JPO7SyLFUDTHT_pvaE6Gr2q_VdDpgbh09uH-a_iOdtMC6wAO2IM9QHWRmWlCwEPJ3ZTwc3BzyceUjQueb2LCuRmxyQdTFh84R8OGwew2jPF2gpQDYcEn7AhrV3WCqVNURFG3JA9T4wC0WhdUuvQpX4iYyYgiRWz0mZVzzMl_Xwj1RTCFXor_bCMOg?width=768&height=1024&cropmode=none" width="100%"  />
 > 娃的Dressup day。妈妈帮他做的
 
-<img src="https://nsxuyw.bn1304.livefilestore.com/y4mQBsPfH0nEnduFi1RNLkzib-RLXKjRJ9cvHft0yGc53At-wTlktUbayZfohBoQbrxIkkikuN4ylWrcKAlGaIz2hof4Ra-Ndo3di-5VDEXyHgiguzvyTKQxJmC8BW3A1yHOUBLp_YVFD4CcYOATj6KvUT9HPDMLebIHbgcFn_QxFzE67pNZE5IvtUjV8eWvUdXGo1O-Kmxo6LD-_QfjZ5_wg?width=768&height=1024&cropmode=none" width="768" height="1024" />
+<img src="https://nsxuyw.bn1304.livefilestore.com/y4mQBsPfH0nEnduFi1RNLkzib-RLXKjRJ9cvHft0yGc53At-wTlktUbayZfohBoQbrxIkkikuN4ylWrcKAlGaIz2hof4Ra-Ndo3di-5VDEXyHgiguzvyTKQxJmC8BW3A1yHOUBLp_YVFD4CcYOATj6KvUT9HPDMLebIHbgcFn_QxFzE67pNZE5IvtUjV8eWvUdXGo1O-Kmxo6LD-_QfjZ5_wg?width=768&height=1024&cropmode=none" width="100%" height="1024" />
 >儿子看着他自己的相，问我，“我在做什么”。我心想，你在葛优躺。
 
-<img src="https://qmxheg.bn1304.livefilestore.com/y4mPFhmQvR445joQ6pdSxE9jziBLnMNtsDnYt7Dc71oDWP1-heERTyRLTCUJ82ju5LtPcoz8konuWwJEgxoiOv8ewLGYxFlNg-MwA6-g3X91UXUfkabqX74EEJ5lOGkeVO8urUNvrX0FrGFqLEVlDGdDXKNDKjEaJr76BqcD19g4TxzXHv0N_Z4o1F5rx-jK3_34KqNVWG4Ne6yMrnU0Llrpw?width=768&height=1024&cropmode=none" width="768"  />
+<img src="https://qmxheg.bn1304.livefilestore.com/y4mPFhmQvR445joQ6pdSxE9jziBLnMNtsDnYt7Dc71oDWP1-heERTyRLTCUJ82ju5LtPcoz8konuWwJEgxoiOv8ewLGYxFlNg-MwA6-g3X91UXUfkabqX74EEJ5lOGkeVO8urUNvrX0FrGFqLEVlDGdDXKNDKjEaJr76BqcD19g4TxzXHv0N_Z4o1F5rx-jK3_34KqNVWG4Ne6yMrnU0Llrpw?width=768&height=1024&cropmode=none" width="100%"  />
 > 终于离职了。把电脑，工作卡等等都交上去。匆匆结束了我两年的工作。
 
 
@@ -215,7 +215,7 @@
 
 不过，心情调整好就好了。
 
-<img src="https://nywqtw.bn1304.livefilestore.com/y4mPjlG-w60t9IiM-E76DoS1U--do0iUYF1DdwnYu-Argv1Nt-niG1xR5lNogZscRbcgfRt3BUaZmoXGKltkA9gz_tqnm6_cCPk4uTh0rZ7B630aq03-oSYZ8fIVyZ3jd1aCKWbkG7goOarMZxgPPrNXupo8cfmTEka1MQ_LD7X9HGRSWyGCyBJ4gGL0al7zfcsra-6-Hy-Y0mbBeYttFqxQw?width=768&height=1024&cropmode=none" width="768"  />
+<img src="https://nywqtw.bn1304.livefilestore.com/y4mPjlG-w60t9IiM-E76DoS1U--do0iUYF1DdwnYu-Argv1Nt-niG1xR5lNogZscRbcgfRt3BUaZmoXGKltkA9gz_tqnm6_cCPk4uTh0rZ7B630aq03-oSYZ8fIVyZ3jd1aCKWbkG7goOarMZxgPPrNXupo8cfmTEka1MQ_LD7X9HGRSWyGCyBJ4gGL0al7zfcsra-6-Hy-Y0mbBeYttFqxQw?width=768&height=1024&cropmode=none" width="100%"  />
 > 某一天晚上，聚会后，儿子在其他小朋友的帮助下，爬树去了。
 
 ### 12月
@@ -225,7 +225,7 @@
 <img src="https://qbb2pw.bn1304.livefilestore.com/y4mw_YCjjtl99Maof-O4GqrxqiI1YvwVAtu4A0wK9oNquXzy2SVrOvMHbLIVbk5i2Ng9z4AZYvNHzOynLysnqOyqdd1Obs4AOqfgxsC-ka3Gy5uyKQClp03W4WvzjmILeX7un6pBQmM9r4vqnmNciSRKFplx8I25JJy3Cj8oKOgbXmF0dR5_8YPZJbSxvlaVis6z-1-F_nCqW9zEjIrCwKvWA?width=1024&height=768&cropmode=none" width="100%"  />
 >外公地到来，解决了我们吃饭的问题。万分感激。
 
-<img src="https://qxbrpw.bn1304.livefilestore.com/y4mIB9q5VSywJQ4G2cga_cr0MjHU5o6Ai5qkS5go6pi4EaboqMzgnio2YwodyWtWO1VYf_-mhM3cRIvIcOQ0b9IkS5_EvrWnMW3xQiCvGoTd3Icvb7OE27fugt4WYhgV6cg7Hpdpgjjb4SuRYLmABYhPM_GbVxU_6QI9seh_FJTe2CnTLzCvUVXdFISPDCGsRxyeMb0nDHSeAXURylAlc0ahQ?width=768&height=1024&cropmode=none" width="768" height="1024" />
+<img src="https://qxbrpw.bn1304.livefilestore.com/y4mIB9q5VSywJQ4G2cga_cr0MjHU5o6Ai5qkS5go6pi4EaboqMzgnio2YwodyWtWO1VYf_-mhM3cRIvIcOQ0b9IkS5_EvrWnMW3xQiCvGoTd3Icvb7OE27fugt4WYhgV6cg7Hpdpgjjb4SuRYLmABYhPM_GbVxU_6QI9seh_FJTe2CnTLzCvUVXdFISPDCGsRxyeMb0nDHSeAXURylAlc0ahQ?width=768&height=1024&cropmode=none" width="100%" height="1024" />
 >有的时候，你真的想急着解决某些问题（例如上厕所），但是，可能会有一只或者一群拦路袋鼠。那么就忍耐一下吧。一定要有信心，相信事情一定会得到解决。我们是获得赐福的大群人。
 
 
@@ -234,10 +234,10 @@
 
 我们期待着很多事情。例如
 
-<img src="https://aljwjw.bn1304.livefilestore.com/y4mTpJqnI3J_eEbA0BwYIXvH4QNYz76hkdvR-tRqgb6zGNpQH3iMbkmhMWe9KcbPjr2154Mjcu2GlwGrUGsrzypudxCFstfjAT-GflE_WOX5ITfz5_d-9HrToWWK1kP3dTE0cx5FkHxFmNhmbq4mCO9CF0ZsmELjRcoHiO2hK3u6_s11BdIfMvQkFOr5Z_oc5cJ-UW4IMJABblo3IZxBdE-fQ?width=768&height=1024&cropmode=none" width="768"/>
+<img src="https://aljwjw.bn1304.livefilestore.com/y4mTpJqnI3J_eEbA0BwYIXvH4QNYz76hkdvR-tRqgb6zGNpQH3iMbkmhMWe9KcbPjr2154Mjcu2GlwGrUGsrzypudxCFstfjAT-GflE_WOX5ITfz5_d-9HrToWWK1kP3dTE0cx5FkHxFmNhmbq4mCO9CF0ZsmELjRcoHiO2hK3u6_s11BdIfMvQkFOr5Z_oc5cJ-UW4IMJABblo3IZxBdE-fQ?width=768&height=1024&cropmode=none" width="100%"/>
 >我继续音乐一下，偶尔
 
-<img src="https://dfj1jw.bn1304.livefilestore.com/y4mteD_LSoInGyOUq3g2hbMLuNoEdKopY4ChMX653Ksxe_KDczvLigYIp5wNJ1WUwAl3mUVUO6IrSBIbEJM6Su4ouysLggR9kaKP5p9aO8NWAbsm2-dSJCD8QnDMiMPwa_1raoPyrAQgdbyC8ePuKshLPI3xfubmTW2CZ6Y1-9iujT_beS31ejAdY69Pfjmp3g4CBCt-qHpmb3WvcuHIAB3lw?width=768&height=1024&cropmode=none" width="768" />
+<img src="https://dfj1jw.bn1304.livefilestore.com/y4mteD_LSoInGyOUq3g2hbMLuNoEdKopY4ChMX653Ksxe_KDczvLigYIp5wNJ1WUwAl3mUVUO6IrSBIbEJM6Su4ouysLggR9kaKP5p9aO8NWAbsm2-dSJCD8QnDMiMPwa_1raoPyrAQgdbyC8ePuKshLPI3xfubmTW2CZ6Y1-9iujT_beS31ejAdY69Pfjmp3g4CBCt-qHpmb3WvcuHIAB3lw?width=768&height=1024&cropmode=none" width="100%" />
 >我的娃和娃的朋友仔一起健健康康长大，走合宜的路
 
 二宝顺利诞生
