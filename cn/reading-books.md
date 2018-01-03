@@ -186,3 +186,7 @@ __那么和我们读书有什么关系吗？__因为，信息经常过载和被�
 谢谢阅读。
 
 <img src="https://rggs.qld.edu.au/newsletter/wp-content/uploads/sites/4/2017/08/keep-calm-and-love-reading-64.png" width="60%"/>
+
+## 更多阅读
+
+[Buying Attention](http://castbox.fm/episode/Buying-Attention-id431967-id61337564?country=us)
